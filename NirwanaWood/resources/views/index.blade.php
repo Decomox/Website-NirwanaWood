@@ -12,9 +12,10 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome To WooDY</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Best Carpenter & Craftsman Services</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
+                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome to NirwanaWood</h5>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Belanja Kayu Mentah yang Mudah dan Efisien!</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Eksplorasi pengalaman belanja yang canggih dan efisien di NirwanaWood! Dengan pilihan kayu berkualitas, proses pembelian yang sederhana, dan harga bersaing. Bergabunglah sekarang untuk pengalaman belanja tanpa kerumitan!
+</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Free Quote</a>
                             </div>
@@ -28,9 +29,9 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome To WooDY</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Best Carpenter & Craftsman Services</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
+                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome to NirwanaWood</h5>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Belanja Kayu Mentah yang Mudah dan Efisien!</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Eksplorasi pengalaman belanja yang canggih dan efisien di NirwanaWood! Dengan pilihan kayu berkualitas, proses pembelian yang sederhana, dan harga bersaing. Bergabunglah sekarang untuk pengalaman belanja tanpa kerumitan!</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Free Quote</a>
                             </div>
@@ -44,9 +45,9 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome To WooDY</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Best Carpenter & Craftsman Services</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
+                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Welcome to NirwanaWood</h5>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Belanja Kayu Mentah yang Mudah dan Efisien!</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Eksplorasi pengalaman belanja yang canggih dan efisien di NirwanaWood! Dengan pilihan kayu berkualitas, proses pembelian yang sederhana, dan harga bersaing. Bergabunglah sekarang untuk pengalaman belanja tanpa kerumitan!</p>
                                 <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Free Quote</a>
                             </div>
@@ -120,7 +121,7 @@
                         <div class="section-title text-start">
                             <h1 class="display-5 mb-4">About Us</h1>
                         </div>
-                        <p class="mb-4 pb-2">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet</p>
+                        <p class="mb-4 pb-2">NirwanaWood adalah platform belanja online yang memudahkan pelanggan untuk membeli kayu berkualitas dengan lebih mudah, efisien, dan efektif. </p>
                         <div class="row g-4 mb-4 pb-2">
                             <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
                                 <div class="d-flex align-items-center">
