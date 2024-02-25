@@ -1,4 +1,4 @@
-@extends('layouts.layouts')
+@extends('layouts.main')
 @section('isi')
 
     <!-- Projects Start -->

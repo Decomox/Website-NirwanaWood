@@ -1,4 +1,5 @@
-@extends('layouts.layouts')
+@extends('layouts.main')
+
 @section('isi')
 
     <!-- About Start -->
