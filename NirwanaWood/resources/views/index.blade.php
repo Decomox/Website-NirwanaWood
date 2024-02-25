@@ -1,8 +1,7 @@
 
 
-@extends('layouts.layouts')
+@extends('layouts.main')
 @section('isi')
-<!-- <<<<<<< HEAD=======>>>>>>> be57f960036f5966784f7a3c518be23ef5bf8e5d -->
     <!-- Carousel Start -->
     <div class="container-fluid p-0 pb-5">
         <div class="owl-carousel header-carousel position-relative">
