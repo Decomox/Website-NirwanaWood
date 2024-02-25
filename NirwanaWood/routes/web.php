@@ -50,4 +50,6 @@ Route::get('testimonial', function (){
     return view('testimonial');
 });
 
-
+Route::get('/admin', function () {
+    return view('admin.index');
+});
