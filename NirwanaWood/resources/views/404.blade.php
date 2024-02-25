@@ -16,5 +16,5 @@
         </div>
     </div>
     <!-- 404 End -->
-   
+
 @endsection
