@@ -22,7 +22,11 @@
 
 </head>
 
+@include('components.navbar-admin')
+
 @yield('isi')
+
+
 
     <!-- Bootstrap core JavaScript-->
     <script src="vendor/jquery/jquery.min.js"></script>
